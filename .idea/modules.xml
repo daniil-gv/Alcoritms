@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algoritms.iml" filepath="$PROJECT_DIR$/.idea/algoritms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../test0/cantest0/cantest0.iml" filepath="$PROJECT_DIR$/../test0/cantest0/cantest0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../test0/cantest1/cantest1.iml" filepath="$PROJECT_DIR$/../test0/cantest1/cantest1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../test0/test0.iml" filepath="$PROJECT_DIR$/../test0/test0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cantest0/cantest0.iml" filepath="$PROJECT_DIR$/.idea/cantest0/cantest0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cantest1/cantest1.iml" filepath="$PROJECT_DIR$/cantest1/cantest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cantest0/test0/test0.iml" filepath="$PROJECT_DIR$/.idea/cantest0/test0/test0.iml" />
     </modules>
   </component>
 </project>
